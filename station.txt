@@ -1,0 +1,8 @@
+Agra              1
+Banaras           2
+Delhi             3
+Jammu&Kashmir     4
+Shimla            5
+Kolkata           6
+Ahmdabad          7
+Jodhpur           8
